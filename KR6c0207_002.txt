@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:45.215655
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 仁王經疏
 #+PROPERTY: CBETA_ID T33n1708
 #+PROPERTY: ID KR6c0207
@@ -17,7 +17,7 @@
 ¶
 西明寺沙門圓測撰¶
 
-3教化品
+* 3教化品
 :PROPERTIES:
 :head: 教化品第三
 :END:
@@ -2051,7 +2051,7 @@
 ¶
 西明寺沙門圓測撰¶
 
-4二諦品
+* 4二諦品
 :PROPERTIES:
 :head: 二諦品第四
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:45.284875
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 仁王經疏
 #+PROPERTY: CBETA_ID T33n1708
 #+PROPERTY: ID KR6c0207
@@ -16,7 +16,7 @@
 ¶
 西明寺沙門圓測撰¶
 
-5護國品
+* 5護國品
 :PROPERTIES:
 :head: 護國品第五
 :END:
@@ -616,7 +616,7 @@
 
 總結應知。¶
 
-6散華品
+* 6散華品
 :PROPERTIES:
 :head: 散華品第六
 :END:
@@ -788,7 +788,7 @@
 ¶
 大慈恩寺沙門圓測撰¶
 
-7受持品
+* 7受持品
 :PROPERTIES:
 :head: 受持品第七
 :END:
@@ -2299,7 +2299,7 @@
 金剛座。坐金剛定。現成佛故。
 <pb:KR6c0207_T_003-0425b>¶
 
-8囑累品
+* 8囑累品
 :PROPERTIES:
 :head: 囑累品第八
 :END:
